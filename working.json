@@ -1,0 +1,786 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "wholesomememes",
+        "selftext": "",
+        "author_fullname": "t2_9cai3",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "One day i'll be running this place",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Gif"
+            }
+        ],
+        "subreddit_name_prefixed": "r/wholesomememes",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_lxliul",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.97,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 37927,
+        "total_awards_received": 109,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Gif",
+        "can_mod_post": false,
+        "score": 37927,
+        "approved_by": null,
+        "author_premium": true,
+        "thumbnail": "https://b.thumbs.redditmedia.com/XDOv2csf12psZP2Tgkxh3ioudKxYzwQQ1xLPde7G55I.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {
+            "gid_1": 20
+        },
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1614896333,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/1nhoez6qs0l61.gif",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/1nhoez6qs0l61.gif?format=png8&amp;s=50fb95b33abc2b56b77b8a88781be3048c5c4016",
+                        "width": 528,
+                        "height": 684
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=931e15854ecbd206925fdf7a43041e17660e1457",
+                            "width": 108,
+                            "height": 139
+                        },
+                        {
+                            "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=09be89e8b4c17dc65a3ab8b11535f2094c9912cc",
+                            "width": 216,
+                            "height": 279
+                        },
+                        {
+                            "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=53828f22af23cdc912f3bf80adf55ed9904f218f",
+                            "width": 320,
+                            "height": 414
+                        }
+                    ],
+                    "variants": {
+                        "gif": {
+                            "source": {
+                                "url": "https://preview.redd.it/1nhoez6qs0l61.gif?s=67a4f3aa5bcf9be29d3204f599850cf78bcc81c7",
+                                "width": 528,
+                                "height": 684
+                            },
+                            "resolutions": [
+                                {
+                                    "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=108&amp;crop=smart&amp;s=633aa482eec1b2fb7ab5c40b23a5e2f14a47c5ee",
+                                    "width": 108,
+                                    "height": 139
+                                },
+                                {
+                                    "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=216&amp;crop=smart&amp;s=c61b1e164bd1bc5c5a161db1db803647d5af65e8",
+                                    "width": 216,
+                                    "height": 279
+                                },
+                                {
+                                    "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=320&amp;crop=smart&amp;s=7fa08ce0d31d3ad5d66c36afc29f64da001c5071",
+                                    "width": 320,
+                                    "height": 414
+                                }
+                            ]
+                        },
+                        "mp4": {
+                            "source": {
+                                "url": "https://preview.redd.it/1nhoez6qs0l61.gif?format=mp4&amp;s=5f1717eee3169c8cf56f8b78f75252179e2fb2ae",
+                                "width": 528,
+                                "height": 684
+                            },
+                            "resolutions": [
+                                {
+                                    "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=108&amp;format=mp4&amp;s=4523e68b908dc5b375c86c9175b6ee722b188cf0",
+                                    "width": 108,
+                                    "height": 139
+                                },
+                                {
+                                    "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=216&amp;format=mp4&amp;s=e24036b4e5a78a587c36d5d799ff497c10dda88c",
+                                    "width": 216,
+                                    "height": 279
+                                },
+                                {
+                                    "url": "https://preview.redd.it/1nhoez6qs0l61.gif?width=320&amp;format=mp4&amp;s=a83899d3cba508674509fd5ba25352781d8f4a01",
+                                    "width": 320,
+                                    "height": 414
+                                }
+                            ]
+                        }
+                    },
+                    "id": "A9YnxYvYCnLUxn-jMnG6IoEBvT3C12cdvDKjOMmWrro"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 75,
+                "id": "award_9663243a-e77f-44cf-abc6-850ead2cd18d",
+                "penny_donate": 0,
+                "award_sub_type": "PREMIUM",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/SnooClappingPremium_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClappingPremium_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClappingPremium_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClappingPremium_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClappingPremium_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClappingPremium_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "For an especially amazing showing.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Bravo Grande!",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/59e02tmkl4451_BravoGrande-Static.png?width=16&amp;height=16&amp;auto=webp&amp;s=3459bdf1d1777821a831c5bf9834f4365263fcff",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/59e02tmkl4451_BravoGrande-Static.png?width=32&amp;height=32&amp;auto=webp&amp;s=9181d68065ccfccf2b1074e499cd7c1103aa2ce8",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/59e02tmkl4451_BravoGrande-Static.png?width=48&amp;height=48&amp;auto=webp&amp;s=339b368d395219120abc50d54fb3e2cdcad8ca4f",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/59e02tmkl4451_BravoGrande-Static.png?width=64&amp;height=64&amp;auto=webp&amp;s=de4ebbe92f9019de05aaa77f88810d44adbe1e50",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/59e02tmkl4451_BravoGrande-Static.png?width=128&amp;height=128&amp;auto=webp&amp;s=ba6c1add5204ea43e5af010bd9622392a42140e3",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "APNG",
+                "icon_height": 512,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/59e02tmkl4451_BravoGrande-Static.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 30,
+                "id": "award_b4ff447e-05a5-42dc-9002-63568807cfe6",
+                "penny_donate": null,
+                "award_sub_type": "PREMIUM",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "A glowing commendation for all to see",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "All-Seeing Upvote",
+                "resized_static_icons": [
+                    {
+                        "url": "https://external-preview.redd.it?width=16&amp;height=16&amp;auto=webp&amp;s=d88c9a453f8ac38850b7a8241cfe5804b7b4905d",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=32&amp;height=32&amp;auto=webp&amp;s=96a25019eb75878bdec4f6c012540f3baffbb1b2",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=48&amp;height=48&amp;auto=webp&amp;s=1a51d27d75afde3fbde8bba84f9338f511211461",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=64&amp;height=64&amp;auto=webp&amp;s=96af5ec460b05669ed60224cb0619bb8884abe27",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=128&amp;height=128&amp;auto=webp&amp;s=2d3e648ed2302e6258673051ca5291f57beb29d4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "APNG",
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 150,
+                "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Thank you stranger. Shows the award.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 23,
+                "static_icon_height": 2048,
+                "name": "Helpful",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 125,
+                "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "When you come across a feel-good thing.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 32,
+                "static_icon_height": 2048,
+                "name": "Wholesome",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 125,
+                "id": "award_611ff347-196b-4a14-ad4b-0076f2d8f9d2",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/Faith_in_Humanity_Restored_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Faith_in_Humanity_Restored_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Faith_in_Humanity_Restored_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Faith_in_Humanity_Restored_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Faith_in_Humanity_Restored_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Faith_in_Humanity_Restored_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "This goes a long way to restore my faith in the people of Earth",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Faith In Humanity Restored",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/jlwc6uspakd61_FaithInHumanityRestored.png?width=16&amp;height=16&amp;auto=webp&amp;s=efad7986011dac7bd9f1b3490753fc7b30be18f9",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/jlwc6uspakd61_FaithInHumanityRestored.png?width=32&amp;height=32&amp;auto=webp&amp;s=51b13dd41a13e9dba8af3316aa119fcfdc349c94",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/jlwc6uspakd61_FaithInHumanityRestored.png?width=48&amp;height=48&amp;auto=webp&amp;s=b5c5868a81ba4f34c2510688a47ef5bf21751bee",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/jlwc6uspakd61_FaithInHumanityRestored.png?width=64&amp;height=64&amp;auto=webp&amp;s=1e060c2f599b3eea83909599eb97fc8882b58f4f",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/jlwc6uspakd61_FaithInHumanityRestored.png?width=128&amp;height=128&amp;auto=webp&amp;s=7dc4bd71f365229da8f7cee9d87b1433f3f8a4ec",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "APNG",
+                "icon_height": 512,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/jlwc6uspakd61_FaithInHumanityRestored.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 100,
+                "id": "gid_1",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Shows the Silver Award... and that's it.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 20,
+                "static_icon_height": 512,
+                "name": "Silver",
+                "resized_static_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 80,
+                "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=73a23bf7f08b633508dedf457f2704c522b94a04",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Everything is better with a good hug",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 31,
+                "static_icon_height": 2048,
+                "name": "Hugz",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&amp;height=16&amp;auto=webp&amp;s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&amp;height=32&amp;auto=webp&amp;s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&amp;height=48&amp;auto=webp&amp;s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&amp;height=64&amp;auto=webp&amp;s=85527145e0c4b754306a30df29e584fd16187636",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&amp;height=128&amp;auto=webp&amp;s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3gcwj",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "lxliul",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "redcobra762",
+        "discussion_type": null,
+        "num_comments": 210,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/wholesomememes/comments/lxliul/one_day_ill_be_running_this_place/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/1nhoez6qs0l61.gif",
+        "subreddit_subscribers": 9012844,
+        "created_utc": 1614867533,
+        "num_crossposts": 9,
+        "media": null,
+        "is_video": false
+    }
